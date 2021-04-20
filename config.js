@@ -8,7 +8,7 @@ var config = {
     title: 'How and Where Boats Impact the Southern Resident Killer Whales',
     subtitle: 'Scroll to explore the multitude of impacts boats have as they voyage through SRKW habitats',
     byline: 'By Joshua Lesko',
-    footer: 'Link to next chapter?',
+    footer: 'https://blagee.github.io/southernresidents/',
     chapters: [
         {
             id: 'Chapter1-Overview',
